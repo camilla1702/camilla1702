@@ -1,16 +1,14 @@
-## Hi there 👋
+### Bem vindos ao meu perfil!
 
-<!--
-**camilla1702/camilla1702** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Camilla Souza
 
-Here are some ideas to get you started:
+Estou estudando na [Alura](https://alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou desenvolvendo estudos de tecnologia
+
+
+### Você pode entrar em contato comigo 📫
+
+camilavieirabrito@outlook.com
+
+[]![image](https://github.com/user-attachments/assets/7eb2c1c4-8ba3-4fdf-bad7-e0329323a7aa)
